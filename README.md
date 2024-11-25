@@ -13,3 +13,5 @@ Tampilkan semua Nomor
 Tampilkan daftar Nama dan nomornya
 Hapus kontak Dina.
 ```
+# Input
+![image](https://github.com/user-attachments/assets/235bc329-a864-49cf-b967-5de0f47f0818)
